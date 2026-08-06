@@ -55,9 +55,9 @@ Full Stack Developer | Web & Mobile Applications
 ---
 
 ### 🌍 Connect with Me
-- 💼 LinkedIn: https://linkedin.com/in/USERNAME  
-- 🌐 Website: https://yourwebsite.com  
-- 📧 Email: yourmail@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/hüseyin-çetinkoz-913932296
+- 🌐 Website: https://gozcu.tech  
+- 📧 Email: h.cetinkoz@gozcu.tech
 
 ---
 
